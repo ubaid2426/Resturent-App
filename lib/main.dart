@@ -1,6 +1,6 @@
 // import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mainpage/Carosel/Carosel.dart';
+import 'package:mainpage/Carosel/carosel_code.dart';
 // import 'package:mainpage/src/Screens/HomeScreen.dart';
 // import 'package:mainpage/src/Widgets/HCard.dart';
 // import 'package:flutter/rendering.dart';

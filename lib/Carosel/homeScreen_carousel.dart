@@ -15,10 +15,11 @@ class HomePageCarousel extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData().copyWith(
+        // ignore: deprecated_member_use
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFF6FC0B2),
       ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }

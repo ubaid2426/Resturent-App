@@ -2,7 +2,7 @@
 // import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter/widgets.dart';
-import 'package:mainpage/Carosel/HomeScreencarousel.dart';
+import 'package:mainpage/Carosel/homeScreen_carousel.dart';
 import 'package:mainpage/core/AppDummyData.dart';
 import 'package:mainpage/src/Screens/BookTableScreen.dart';
 import 'package:mainpage/src/Screens/DinnerScreen.dart';

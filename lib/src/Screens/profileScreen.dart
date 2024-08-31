@@ -24,7 +24,7 @@ class ProfileScreen extends StatelessWidget {
               Image.asset(AppAsset.githubImage, width: 60),
               const SizedBox(width: 10),
              const Text(
-                "https://github.com/ABC....",
+                "https://github.com/ubaid2426",
                 style: TextStyle(
                   fontSize: 20,
                 ),

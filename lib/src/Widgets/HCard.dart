@@ -51,11 +51,11 @@ class HCard extends StatelessWidget {
               borderRadius: BorderRadius.circular(20), // Set border-radius here
             ),
             width: MediaQuery.of(context).size.width / 2,
-            height: 280,
+            height: 275,
             child: Column(
               children: [
                 SizedBox(
-                  height: 170,
+                  height: 165,
                   // color: const Color.fromARGB(255, 233, 9, 177),
                   child: Center(
                     child: Container(
